@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{1810EDAF-390C-9355-DD9F-B772FE06135A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyGraphView/Script/RootObject.cs">
+    <Files>
+      <File FileName="Assets/MyGraphView/Editor/GraphView/MyGraphView.cs" Line="39" Column="1" />
+      <File FileName="Assets/MyGraphView/Editor/GraphView/GraphAssetData.cs" Line="62" Column="30" />
+      <File FileName="Assets/MyGraphView/Script/RootObject.cs" Line="5" Column="33" />
+      <File FileName="Assets/MyGraphView/Editor/GraphView/GraphEditorWindow.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="33512138-a343-462b-892f-bce483f7185f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
